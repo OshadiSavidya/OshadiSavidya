@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Programming languages**
 
-- 📫 How to reach me **oshadikodagoda2000@gmail.com.com**
+- 📫 How to reach me **oshadikodagoda2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
