@@ -2,9 +2,9 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunny(oshadiSavidya)&label=Profile%20views&color=0e75b6&style=flat" alt="sunny(oshadiSavidya)" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
--<b> 🔭 I’m currently studying Software Engineering in NSBM Green University.</b>
-- <b>>🌱 I’m currently learning Programming languages</b>
-- 📫 How to reach me oshadikodagoda2000@gmail.com 
+-<b> 🔭 I’m currently studying Software Engineering in NSBM Green University.</b><br>
+- <b>🌱 I’m currently learning Programming languages</b><br>
+- <b>📫 How to reach me oshadikodagoda2000@gmail.com</b><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://lk.linkedin.com/in/oshadi-kodagoda-ba5b13217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thevindu-ransara-398271218/" height="30" width="40" /></a>
